@@ -11,11 +11,7 @@ namespace Assignment06
             date.AcceptDate();
             date.PrintDate();
             Console.WriteLine("Is Date Valid "+date.IsValid());
-
-            
-
-
-        }
+  }
     }
 
     public class Date
